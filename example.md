@@ -5,3 +5,11 @@
 Here's some more text.
 * circles are great
 * rectangles are okay
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
