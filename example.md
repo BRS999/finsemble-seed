@@ -1,10 +1,12 @@
-# Stuff and things
+# Example usage of mermaid and precursorapp
+
+A nonsense diagram:
 
 [![Precursor](https://precursorapp.com/document/Untitled-17592208955789.svg?auth-token=)](https://precursorapp.com/document/Untitled-17592208955789)
 
-Here's some more text.
-* circles are great
-* rectangles are okay
+Here's some sample text.
+* words 
+* etc.
 
 ```mermaid
 graph TD;
