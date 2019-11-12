@@ -4,4 +4,4 @@
 
 Here's some more text.
 * circles are great
-* squares are okay
+* rectangles are okay
